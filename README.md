@@ -14,7 +14,7 @@ Fig 3. Failure case where there is a three-stack
 
 ![](https://i.imgur.com/lf9SKEF.png)
 
-Fig 4. Imcomplete instance mask for the object at the bottom in the failure case
+Fig 4. Incomplete instance mask for the object at the bottom in the failure case
 
 ![](https://i.imgur.com/WtB3uCr.png)
 
