@@ -1,0 +1,1 @@
+To build COCO Amodal API see instrctions here: https://github.com/Wakeupbuddy/amodalAPI
