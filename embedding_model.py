@@ -1,5 +1,3 @@
-
-
 import tensorflow as tf
 import keras.backend as K
 from keras import regularizers

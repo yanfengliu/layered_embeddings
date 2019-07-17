@@ -10,11 +10,8 @@ import copy
 import json
 
 sys.path.append('C:/Users/yliu60/Documents/GitHub/amodalAPI/PythonAPI/pycocotools')
-sys.path.append('C:/Users/Yanfeng Liu/Documents/GitHub/amodalAPI/PythonAPI/pycocotools')
 
 import cv2
-import mask as Mask
-import batchEval
 import numpy as np
 import pylab
 import scipy
@@ -22,7 +19,6 @@ import scipy.ndimage.interpolation as interpolation
 import skimage.io as io
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
-from pycocotools.amodal import Amodal
 from skimage.transform import resize
 from collections import defaultdict
 

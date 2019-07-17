@@ -16,7 +16,6 @@ from keras.utils import to_categorical
 from skimage.transform import resize
 from IPython.display import clear_output
 import matplotlib.image as mpimg
-import mask as Mask
 import shapes
 
 
@@ -53,5 +52,5 @@ def get_batch_image_and_gt(params):
         batch_image[i, :, :, :] = image_info['image']
         batch_gt[i, :, :, :] = gt
 
-    return batch_image, batch_gt    
+    return batch_image, batch_gt
 
