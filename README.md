@@ -1,8 +1,10 @@
 # Implementation for paper "Layered Embeddings for Amodal Instance Segmentation" 
 
-## Note: the email associated with the paper is no longer valid. Please contact me at `yanfengliux@gmail.com`
+**Note: the email associated with the paper is no longer valid. Please contact me at `yanfengliux@gmail.com`**
 
-Paper link: https://link.springer.com/chapter/10.1007/978-3-030-27202-9_9
+**An extension of this work into multi-class multi-object tracking can be found in [my thesis](https://digitalcommons.unl.edu/elecengtheses/111/)**
+
+[Paper link](https://link.springer.com/chapter/10.1007/978-3-030-27202-9_9)
 
 ![](https://i.imgur.com/q2y3VVN.png)
 
