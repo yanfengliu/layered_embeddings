@@ -4,7 +4,7 @@
 
 **An extension of this work into multi-class multi-object tracking can be found in [my thesis](https://digitalcommons.unl.edu/elecengtheses/111/)**
 
-[Paper link](https://link.springer.com/chapter/10.1007/978-3-030-27202-9_9)
+Paper link: [Springer](https://link.springer.com/chapter/10.1007/978-3-030-27202-9_9), [Arxiv](https://arxiv.org/abs/2002.06264)
 
 ![](https://i.imgur.com/q2y3VVN.png)
 
